@@ -12,3 +12,5 @@
 
 在这个file里面修改个人信息和人数日期，可以提前多加几个人
 https://github.com/ZhouYou528/BCTicket/blob/main/cypress/e2e/ticket.cy.js
+
+如果没有抢到票，程序会自动刷新页面重试最多重试100次，然后需要重新运行
