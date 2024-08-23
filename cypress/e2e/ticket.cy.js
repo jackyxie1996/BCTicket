@@ -4,9 +4,9 @@ describe('template spec', () => {
   // change number of people here
   const NUM_PPL = '4';
   // change to your own name and email
-  const FIRST_NAME = 'FirstName';
-  const LAST_NAME = 'LastName';
-  const EMAIL = 'xxxx@gmail.com';
+  const FIRST_NAME = 'Zichuang';
+  const LAST_NAME = 'Xie';
+  const EMAIL = 'jackyxie1996@gmail.com';
 
   // const FIRST_NAME = 'Another1';
   // const LAST_NAME = 'Another1';
