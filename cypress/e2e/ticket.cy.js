@@ -1,6 +1,6 @@
 describe('template spec', () => {
   // change date here
-  const DATE = '12';
+  const DATE = '25';
   // change number of people here
   const NUM_PPL = '4';
   // change to your own name and email
