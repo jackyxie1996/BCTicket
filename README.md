@@ -8,3 +8,7 @@
 7. 点击 `Start E2E Testing in Chrome`
 8. 点击 `ticket.cy.js`
 9. 窗口中会自动选择joffre lake然后自动填写姓名邮箱人数，最后的验证码需要手动输入。最后手动点击确定。
+
+
+在这个file里面修改个人信息和人数日期，可以提前多加几个人
+https://github.com/ZhouYou528/BCTicket/blob/main/cypress/e2e/ticket.cy.js
